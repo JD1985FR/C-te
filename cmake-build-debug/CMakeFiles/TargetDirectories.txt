@@ -1,0 +1,3 @@
+/Users/davidjimenez-girard/CLionProjects/untitled17/cmake-build-debug/CMakeFiles/untitled17.dir
+/Users/davidjimenez-girard/CLionProjects/untitled17/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davidjimenez-girard/CLionProjects/untitled17/cmake-build-debug/CMakeFiles/rebuild_cache.dir
